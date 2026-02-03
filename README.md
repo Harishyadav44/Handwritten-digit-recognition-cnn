@@ -1,5 +1,7 @@
 # Handwritten Digit Recognition using CNN
 
+---
+
 ## Description
 This project implements a Convolutional Neural Network (CNN) to recognize handwritten digits from the MNIST dataset. The model achieves over 99% accuracy on the test set.
 
